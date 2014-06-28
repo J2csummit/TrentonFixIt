@@ -24,32 +24,6 @@ h1{
 	border:solid black 1px;
 	text-align:center;
 	font-size:11px;
-}
-#top{
-	float:left;
-	width:100%;
-}
-#bottom{
-	float:left;
-	width:100%;
-}
-#brkn{
-	float:left;
-	margin:20px;
-	margin-left:10%;
-}
-#hole{
-	float:right;
-	margin:20px;
-	margin-right:10%;
-}
-#prop{
-	float:left;
-	margin:20px;
-	margin-left:10%;
-}
-#other{
-	float:right;
-	margin:20px;
-	margin-right:10%;
+	margin:auto;
+	margin-top:10px;
 }
