@@ -1,6 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+#body{
+	font-family:"sans-serif";
+}
 #navigate{
 	position:fixed;
 }
@@ -12,10 +15,15 @@
 }
 h1{
 	margin-left:auto;
-	margin-right:auto;
+	margin-right:auto;te
 	width:100px;
 	text-align:center;
 	border:solid red 1px;
+}
+#fixtrentonlogo{
+	text-align:center;
+	height:100px;
+	border:solid blue 1px;
 }
 .report{
 	position:relative;
@@ -26,4 +34,16 @@ h1{
 	font-size:11px;
 	margin:auto;
 	margin-top:10px;
+}
+#onetimeentry{
+	text-align:center;
+}
+.info{
+	float:left;
+	clear:both;
+}
+#nextinfo{
+	position:absolute;
+	right:10px;
+	bottom:10px;
 }
