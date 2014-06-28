@@ -41,9 +41,16 @@ h1{
 	text-align:justify;
 	margin:10px;
 }
-.info{
+.infoLabel{
 	float:left;
-	clear:both;
+	clear:left;
+	width:110px;
+	margin-bottom:10px;
+}
+.infoInput{
+	float:left;
+	clear:right;
+	margin-bottom:10px;
 }
 #nextinfo{
 	position:absolute;
