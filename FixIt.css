@@ -40,15 +40,8 @@ h1{
 	text-align:justify;
 	margin:10px;
 }
-.infoLabel{
-	float:right;
-	clear:both;
-	margin-bottom:10px;
-}
-.infoInput{
-	float:left;
-	clear:both;
-	margin-bottom:10px;
+#info{
+	margin:10px;
 }
 #nextinfo{
 	position:absolute;
