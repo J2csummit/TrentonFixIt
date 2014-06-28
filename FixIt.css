@@ -24,7 +24,6 @@ h1{
 	border:solid black 1px;
 	text-align:center;
 	font-size:11px;
-	float:left;
 }
 #top{
 	float:left;
@@ -37,20 +36,20 @@ h1{
 #brkn{
 	float:left;
 	margin:20px;
-	margin-left:20%;
+	margin-left:10%;
 }
 #hole{
 	float:right;
 	margin:20px;
-	margin-right:20%;
+	margin-right:10%;
 }
 #prop{
 	float:left;
 	margin:20px;
-	margin-left:20%;
+	margin-left:10%;
 }
 #other{
 	float:right;
 	margin:20px;
-	margin-right:20%;
+	margin-right:10%;
 }
