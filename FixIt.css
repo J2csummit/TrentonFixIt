@@ -19,7 +19,6 @@ h1{
 	margin-right:auto;
 	width:125px;
 	text-align:center;
-	border:solid red 1px;
 	font-weight:400;
 }
 #fixtrentonlogo{
@@ -41,20 +40,14 @@ h1{
 	text-align:justify;
 	margin:10px;
 }
-#info{
-	margin-left:auto;
-	margin-right:auto;
-	width:267px;
-}
 .infoLabel{
-	float:left;
-	clear:left;
-	width:110px;
+	float:right;
+	clear:both;
 	margin-bottom:10px;
 }
 .infoInput{
 	float:left;
-	clear:right;
+	clear:both;
 	margin-bottom:10px;
 }
 #nextinfo{
