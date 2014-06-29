@@ -3,7 +3,7 @@
 
 body{
 	font-family:"Helvetica Neue";
-	font-weight:200;
+	font-weight:300;
 }
 #navigate{
 	position:fixed;
@@ -69,4 +69,11 @@ sub{
 }
 #right{
 	float:right;
+}
+#photo{
+	border: solid black 1px;
+	height: 50px;
+}
+#temp{
+	height:30px;
 }
