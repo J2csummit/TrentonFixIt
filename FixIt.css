@@ -7,12 +7,19 @@ body{
 }
 #navigate{
 	position:fixed;
+	width:100%;
+	border:solid green 2px;
+	text-align:center;
+	z-index:10;
+	background-color:#FFF;
 }
 #nav{
 	position:fixed;
 	top:50px;
 	border:solid black 1px;
 	padding:10px;
+	z-index:5;
+	background-color:#FFF;
 }
 h1{
 	margin-left:auto;
@@ -38,16 +45,27 @@ h1{
 }
 #onetimeentry{
 	text-align:justify;
-	margin:10px;
+	margin:10px 30px 10px;
 }
 #info{
 	margin:10px;
 }
-#nextinfo{
+#btmrit{
 	position:absolute;
 	right:10px;
 	bottom:10px;
 }
+#btmlft{
+	position:absolute;
+	left:10px;
+	bottom:10px;
+}
 sub{
 	font-size:10px;
+}
+#left{
+	float:left;
+}
+#right{
+	float:right;
 }
