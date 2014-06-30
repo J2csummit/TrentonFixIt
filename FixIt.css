@@ -31,14 +31,16 @@ h1{
 }
 #fixtrentonlogo{
 	text-align:center;
-	height:100px;
-	border:solid blue 1px;
+	height:70px;
+}
+#logo{
+	height:50px;
+	width:131px;
 }
 .report{
 	position:relative;
 	width:100px;
 	height:100px;
-	border:solid black 1px;
 	text-align:center;
 	font-size:11px;
 	margin:auto;
@@ -76,4 +78,35 @@ sub{
 }
 #temp{
 	height:30px;
+}
+#streetlight1{
+	width:90px;
+	height:80px;
+	border: solid black 1px;
+	padding:5px 10px 5px 10px;
+}
+#streetlight2{
+	width:40px;
+	height:43px;
+	margin-left:130px;
+	padding-top:3px;
+	opacity:0.3;
+}
+#abandonedHouse{
+	width:90px;
+	height:80px;
+	border: solid black 1px;
+	padding:5px 10px 5px 10px;
+}
+#pothole{
+	width:90px;
+	height:80px;
+	border: solid black 1px;
+	padding:20px 0px 10px 0px;
+}
+#othar{
+	width:90px;
+	height:80px;
+	border: solid black 1px;
+	padding:5px 10px 5px 10px;
 }
